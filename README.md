@@ -4,7 +4,7 @@
 Fuses GNSS, IMU, wheel odom, LiDAR odom, visual odom, magnetometer, barometer into one reliable state.  
 Targets ROS2, industrial PCs, and PLC/embedded bridges via a C ABI.
 
-> **Status:** Repo scaffold. Code landing after ICTK base (Aug 31). This README defines scope and gates.
+> **Status:** Repo scaffold. Code landing soon. This README defines scope and gates.
 
 ---
 
